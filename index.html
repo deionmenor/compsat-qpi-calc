@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="Want to compute your QPI without waiting for AISIS to do so? Too lazy to use a spreadsheet program? Then try the new QPI Calculator from CompSAt’s RnD department!">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+	<link rel="manifest" href="manifest.json">
+	<meta name="msapplication-TileColor" content="#FFFFFF">
+	<meta name="msapplication-TileImage" content="ms-icon-144x144.png">
+	<meta name="theme-color" content="#383B37">
+
+	<title>CompSAt QPI Calculator</title>
+	<link rel="stylesheet" href="assets/css/reset.css">
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:600italic,700,600,400' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="assets/css/main.css">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	<script src="assets/js/app.js"></script>
+</head>
+
+<body>
+	<header>
+		<a id="brandmark" href="http://compsat.org/"></a>
+		<h1>QPI Calculator</h1>
+	</header>
+
+	<section id="qpi-page" class="page">
+		<div class="page-container">
+			<div class="input-card-container">
+				<div class="card input-card">
+					<table class="input-table">
+						<tr>
+							<th>Letter Mark</th>
+							<th>No. of Units</th>
+						</tr>
+						<tr class="input-row">
+							<td>
+								<select class="input-select grade-select" name="grade">
+									<option value="-" selected="selected">-</option>
+									<option value="4.00">A</option>
+									<option value="3.50">B+</option>
+									<option value="3.00">B</option>
+									<option value="2.50">C+</option>
+									<option value="2.00">C</option>
+									<option value="1.00">D</option>
+									<option value="0.00">F</option>
+								</select>
+							</td>
+							<td>
+								<select class="input-select unit-select" name="units">
+									<option value="1">1</option>
+									<option value="2">2</option>
+									<option value="3" selected="selected">3</option>
+									<option value="5">5</option>
+									<option value="6">6</option>
+								</select>
+							</td>
+							<td class="delete-btn">x</td>
+						</tr>
+					</table>
+					<button class="add-btn">Add</button>
+				</div>
+			</div>
+			<div class="output-card-container">
+				<div class="card output-card">
+					<span class="qpi-heading">Your QPI</span>
+					<span class="qpi-display">-</span>
+				</div>
+				<small>Designed and developed by <a href="http://galacemiguel.github.io/">Miguel N. Galace</a>.</small>
+			</div>
+		</div>
+	</section>
+</body>
+</html>

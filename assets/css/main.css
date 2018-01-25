@@ -1,0 +1,256 @@
+@font-face {
+	font-family: "futura_ltcondensed";
+	src: url("../fonts/futuralt-condensed-webfont.woff2") format("woff2"),
+		 url("../fonts/futuralt-condensed-webfont.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-family: "futura_ltbold";
+	src: url("../fonts/futuralt-bold-webfont.woff2") format("woff2"),
+		 url("../fonts/futuralt-bold-webfont.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+html {
+	box-sizing: border-box;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+body {
+	min-width: 320px;
+	background: #F3F3F3;
+}
+
+header {
+	position: relative;
+	width: 100%;
+	padding: 100px 150px 30px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, .5);
+	background: #383B37;
+}
+
+#brandmark {
+	display: block;
+	width: 50px;
+	height: 50px;
+	margin: 0 auto 25px;
+	background: url("../images/brandmark-hdpi.png");
+	background-size: 100%;
+	background: -webkit-image-set(
+		url("../images/brandmark.png") 1x, url("../images/brandmark-hdpi.png") 2x
+	);
+}
+
+h1 {
+	color: #FFF;
+	font: 28pt "futura_ltcondensed";
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 1pt;
+}
+
+.page {
+	width: 100%;
+	max-width: 1600px;
+	height: 100%;
+	padding: 0 150px;
+	margin: 0 auto;
+	overflow-x: hidden;
+}
+
+.page-container {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	height: 100%;
+}
+
+.input-card-container {
+	width: 60%;
+	height: 100%;
+	padding: 20px 10px 20px 0;
+}
+
+.output-card-container {
+	width: 40%;
+	height: 300px;
+	padding: 20px 0 0 10px;
+	margin-bottom: 15px;
+}
+
+.card {
+	background: #FFF;
+	padding: 75px;
+	padding-top: 67px;
+	border-radius: 2px;
+	border-top: 8px solid #383B37;
+	box-shadow: 0 0 5px rgba(0, 0, 0, .25);
+	color: #383B37;
+}
+
+.input-card {
+	height: 100%;
+}
+
+.output-card {
+	height: 100%;
+}
+
+.input-table th {
+	width: 250px;
+	padding-bottom: 40px;
+	font: italic 600 15pt "Open Sans";
+	text-align: left;
+	white-space: nowrap;
+}
+
+.input-table td {
+	padding-bottom: 30px;
+}
+
+.input-row {
+	cursor: pointer;
+}
+
+.input-select {
+	width: 160px;
+	height: 40px;
+	border: none;
+	border-bottom: 1px solid rgba(56, 59, 55, .25);
+	background: none;
+	color: #383B37;
+	font: 400 15pt "Open Sans";
+	outline-color: rgba(0, 0, 0, 0);
+	cursor: pointer;
+}
+
+.delete-btn {
+	padding: 0 5px;
+	font: 700 12pt "Open Sans";
+	visibility: hidden;
+}
+
+.add-btn {
+	width: 160px;
+	height: 50px;
+	border: none;
+	border-radius: 2px;
+	background: #383B37;
+	color: #FFF;
+	font: 600 12pt "Open Sans";
+	text-transform: uppercase;
+	letter-spacing: 1pt;
+	cursor: pointer;
+}
+
+.add-btn:hover {
+	background: #2A2C29;
+}
+
+.qpi-heading {
+	display: block;
+	font: 700 15pt "Open Sans";
+	text-transform: uppercase;
+}
+
+.qpi-display {
+	font: 67pt "futura_ltbold";
+}
+
+.output-card-container small {
+	display: block;
+	margin-top: 10px;
+	color: #383B37;
+	font: 400 11pt "Open Sans";
+}
+
+@media screen and (max-width: 1280px) {
+	header, .page {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+}
+
+@media screen and (max-width: 1080px) {
+	.input-card-container, .output-card-container {
+		width: 100%;
+	}
+
+	.input-card-container {
+		padding-right: 0;
+	}
+
+	.output-card-container {
+		padding: 0 0 20px 0;
+	}
+}
+
+@media screen and (max-width: 720px) {
+	header, .page {
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+
+	.card {
+		padding: 50px;
+	}
+
+	.input-table th {
+		width: 180px;
+	}
+
+	.input-select {
+		width: 80px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	header {
+		padding-top: 75px;
+	}
+
+	h1 {
+		font-size: 21pt;
+	}
+
+	.card {
+		padding: 25px;
+	}
+
+	.input-table th {
+		width: 120px;
+	}
+
+	.output-card-container {
+		height: 200px;
+	}
+
+	.input-table th {
+		font-size: 12pt;
+	}
+
+	.add-btn {
+		width: 120px;
+		height: 40px;
+	}
+
+	.qpi-heading {
+		font-size: 12pt;
+	}
+
+	.qpi-display {
+		font-size: 50pt;
+	}
+
+	.output-card-container small {
+		font-size: 8pt;
+	}
+}

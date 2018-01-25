@@ -1,0 +1,1038 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"futura",
+				"futura_ltcondensed"
+			],
+			[
+				"grade",
+				"grade-display"
+			],
+			[
+				"out",
+				"output-card"
+			],
+			[
+				"input",
+				"input-table"
+			],
+			[
+				"output",
+				"output-card-container"
+			],
+			[
+				"outpu",
+				"output-card-container"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"input-",
+				"input-dropdown"
+			],
+			[
+				"trans",
+				"translateX"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"unit",
+				"unitTotal"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"card",
+				"card-form-query"
+			],
+			[
+				"bar",
+				"bariol_regularregular"
+			],
+			[
+				"bario",
+				"bariol_regularregular"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"mari",
+				"margin-right"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"inln",
+				"inline"
+			],
+			[
+				"bariol",
+				"bariolregular_italic"
+			],
+			[
+				"fous",
+				"focused-feed-card"
+			],
+			[
+				"search",
+				"searchCardHTML"
+			],
+			[
+				"aci",
+				"activeSection"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"fn",
+				"font-size"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"fab",
+				"fab-icon"
+			],
+			[
+				"a",
+				"active"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"active",
+				"activeSection"
+			],
+			[
+				"translate",
+				"translateY"
+			],
+			[
+				"foa",
+				"float"
+			],
+			[
+				"nav-",
+				"nav-link"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"tx",
+				"text-indent"
+			],
+			[
+				"translae",
+				"translateY"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"cus",
+				"customerno"
+			],
+			[
+				"cu",
+				"customerno"
+			],
+			[
+				"aut",
+				"authorid"
+			],
+			[
+				"outline",
+				"outline-width"
+			],
+			[
+				"login-",
+				"login-form"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"baro",
+				"bariol_boldbold"
+			],
+			[
+				"valid",
+				"validMatrix"
+			],
+			[
+				"c",
+				"columns"
+			],
+			[
+				"aften",
+				"aften_screenbold"
+			],
+			[
+				"carou",
+				"carousel-page"
+			],
+			[
+				"auto",
+				"autoScroll"
+			],
+			[
+				"menu",
+				"menuCollapsed"
+			],
+			[
+				"scroll",
+				"scrollTimeout"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"afte",
+				"aften_screenbold"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"wall",
+				"wallpaper-photo"
+			],
+			[
+				"first",
+				"first-letter"
+			],
+			[
+				"din",
+				"pf_dintext_promedium"
+			],
+			[
+				"pf",
+				"pfdintextpro-bold-webfont"
+			],
+			[
+				"assets",
+				"assetsPath"
+			],
+			[
+				"act",
+				"actionString"
+			],
+			[
+				"snooz",
+				"snoozeAlarm"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"scr",
+				"scrollPos"
+			],
+			[
+				"caro",
+				"carousel-page"
+			],
+			[
+				"rand",
+				"randomizeAnimation"
+			],
+			[
+				"ra",
+				"randomizeAnimation"
+			],
+			[
+				"sound",
+				"soundAlarm"
+			],
+			[
+				"repeat",
+				"repeatDays"
+			],
+			[
+				"clo",
+				"clockHour"
+			],
+			[
+				"notici",
+				"Notification"
+			],
+			[
+				"in",
+				"indexOf"
+			],
+			[
+				"alarm-bt",
+				"alarm-btn-child"
+			],
+			[
+				"alarm",
+				"alarmSettings"
+			],
+			[
+				"current",
+				"currentDay"
+			],
+			[
+				"ig",
+				"ingredientsList"
+			],
+			[
+				"ingred",
+				"ingredientsList"
+			],
+			[
+				"recipe",
+				"recipeType"
+			],
+			[
+				"photo",
+				"photo-container"
+			],
+			[
+				"ing",
+				"ingredientsHeading"
+			],
+			[
+				"print",
+				"printWindow"
+			],
+			[
+				"alarmb",
+				"alarm-btn-child"
+			],
+			[
+				"alarm-b",
+				"alarm-btn-child"
+			],
+			[
+				"root",
+				"rootState"
+			],
+			[
+				"state",
+				"stateHistory"
+			],
+			[
+				"get",
+				"getPriority"
+			],
+			[
+				"sta",
+				"statesHistory"
+			],
+			[
+				"empty",
+				"emptyCell"
+			],
+			[
+				"left",
+				"leftCell"
+			],
+			[
+				"emp",
+				"emptyCell"
+			],
+			[
+				"recie",
+				"recipeType"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"vs",
+				"visibility"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"last",
+				"lastRecipe"
+			],
+			[
+				"proced",
+				"procedure-container"
+			],
+			[
+				"aften_screen",
+				"aften_screenitalic"
+			],
+			[
+				"after",
+				"aften_screenregular"
+			],
+			[
+				"al",
+				"aften_screenbold"
+			],
+			[
+				"pro",
+				"procedure-display"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"backr",
+				"background"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"exercise",
+				"exercise-steps"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"random",
+				"randomExercise"
+			],
+			[
+				"exerc",
+				"exerciseRow"
+			],
+			[
+				"exer",
+				"exerciseCol"
+			],
+			[
+				"ex",
+				"exercise-btn"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"label",
+				"labelLen"
+			],
+			[
+				"bebas",
+				"bebasBold"
+			],
+			[
+				"data",
+				"datalLen"
+			],
+			[
+				"daa",
+				"datalLen"
+			],
+			[
+				"beb",
+				"bebasBook"
+			],
+			[
+				"beba",
+				"bebasBold"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"Java",
+				"Set Syntax: Java"
+			],
+			[
+				"jAVA",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"clear",
+			"Sublime.log_commands(True)",
+			"Subllime.log_commands(True)",
+			"sublime.log_commands(True)",
+			"subprocess.Popen([executable_path, './Tutorial'], cwd='/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/')",
+			"subprocess.Popen([executable_path, './'], cwd='/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/')",
+			"subprocess([executable_path, './'], cwd='/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/')",
+			"executable_path",
+			"executable_path = app_path+\"Contents/SharedSupport/bin/subl\"",
+			"app_path = executable_path[:executable_path.rfind(\".app/\")+5]",
+			"executable_path = sublime.executable_path()",
+			"subprocess.Popen(['pwd'])",
+			"import subprocess",
+			"sublime.active_window().run_command(\"sublime_tutor_new_window\")",
+			"sublime.active_window().run_command",
+			"sublime.active_window()",
+			"sublime.executable_path()",
+			"subliem.executable_path()",
+			"executable_path[:executable_path.rfind(\".app/\")+5] + \"Contents/SharedSupport/bin/subl\"",
+			"executable_path[:executable_path.rfind(\".app/\")+5]",
+			"executable_path = sublime.executable_path()",
+			"sublime.executable_path().executable_path[:executable_path.rfind(\".app/\")+5]",
+			"executable_path[:executable_path.rfind(\".app/\")+5]",
+			"sublime.executable_path()",
+			"sublime.log_commands(False)",
+			"sublime.open_project",
+			"window.open_project",
+			"window.open_file",
+			"view.run_command(\"select_by_index\")",
+			"window.run_command(\"select_by_index\")",
+			"sublime.select_by_index",
+			"view.run_command(\"example\")",
+			"sublime.run_command(\"example\")",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Miguel/Documents/School/4th Year/Orgs/CompSAt/Blue Hacks Website/bluehacks2018/package.json",
+		"/C/Users/Miguel/Documents/School/4th Year/Orgs/CompSAt/Blue Hacks Website/bluehacks2018/.gitignore",
+		"/C/Users/Miguel/Documents/School/3rd Year/Orgs/CompSAt/CompSAt QPI Calculator/index.html",
+		"/C/Users/Miguel/Documents/School/3rd Year/Orgs/CompSAt/CompSAt QPI Calculator/assets/css/main.css",
+		"/C/Users/Miguel/Google Drive/Documents/School/3rd Year/Orgs/CompSAt/CompSAt QPI Calculator/assets/css/main.css",
+		"/C/Users/Miguel/Google Drive/Documents/School/3rd Year/JTA/Academics/COSC 3410/Homework/hw1.scm",
+		"/C/Users/Miguel/Google Drive/Documents/School/3rd Year/Orgs/CompSAt/CompSAt QPI Calculator/index.html",
+		"/C/Users/Miguel/Downloads/index.htm",
+		"/C/Users/Miguel/Documents/School/Orgs/CompSAt/CompSAt QPI Calculator/assets/js/app.js",
+		"/C/Users/Miguel/Documents/School/Orgs/CompSAt/CompSAt QPI Calculator/assets/css/main.css",
+		"/C/Users/Miguel/Documents/School/Orgs/CompSAt/CompSAt QPI Calculator/index.html",
+		"/C/Users/Miguel/Documents/School/Orgs/CompSAt/CompSAt QPI Calculator/compsat-qpi-calc.sublime-workspace",
+		"/C/Users/Miguel/Documents/School/Orgs/CompSAt/CompSAt QPI Calculator/manifest.json",
+		"/C/Users/Miguel/Pictures/Design/Portfolio/Websites/AMDG Website/index.html",
+		"/C/Users/Miguel/Downloads/6004-CS152bVersion/6004-CS152bVersion/8clocks.jsim",
+		"/C/Users/Miguel/Downloads/6004-CS152bVersion/6004-CS152bVersion/nominal.jsim",
+		"/C/Users/Miguel/Documents/Github/numpad-mash/resources/js/play.js",
+		"/C/Users/Miguel/AppData/Local/Temp/Temp1_webfontkit-20160527-232426.zip/stylesheet.css",
+		"/C/Users/Miguel/AppData/Local/Temp/Temp1_webfontkit-20160527-232426.zip/futuralt-condensedbold-demo.html",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Project/Website/assets/css/main.css",
+		"/C/Users/Miguel/Documents/Code/Web/Alarm Snack/assets/css/main.css",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Project/Website/new-delivery.html",
+		"/C/Users/Miguel/Documents/Code/Web/Alarm Snack/assets/js/app.js",
+		"/C/Users/Miguel/Documents/Code/Web/CompSAt QPI Calculator/index.html",
+		"/C/Users/Miguel/Documents/Github/galacemiguel.github.io/index.html",
+		"/C/Users/Miguel/Documents/Code/Web/Template.html",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Project/Website/home.html",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Project/Website/index.html",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Project/Website/assets/js/app.js",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Project/Website/login.html",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Project/Website/new-invoice.html",
+		"/C/Users/Miguel/Downloads/CS122/assets/css/main.css",
+		"/C/Users/Miguel/Downloads/CS122/assets/js/app.js",
+		"/C/Users/Miguel/Downloads/CS122/home.php",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Project/Website/new-issuance.html",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Project/Website/new-return.html",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Project/Website/new-transfer.html",
+		"/C/Users/Miguel/Documents/Code/Web/Alarm Snack/assets/js/jquery-1.12.3.min.js",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Project/Website/register.html",
+		"/C/Users/Miguel/AppData/Local/Temp/Temp1_webfontkit-20160501-042832.zip/stylesheet.css",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Lab 1/SQL1-Galace-141654.sql",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Lab 2/SQL2-Galace-141654.sql",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Lab 3/lab2-setup.sql",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Lab 3/SQL3-Galace-141654.sql",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Project/Website/assets/css/reset.css",
+		"/C/Users/Miguel/Downloads/SQL1-Galace-141654.sql",
+		"/C/Users/Miguel/Documents/Code/Java/CrocVault/Packaging/src/crocvault/LaunchGame.java",
+		"/C/Users/Miguel/Documents/Code/Java/CrocVault/Packaging/src/crocvault/Game.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 122/Project/Website/assets/images/logo.svg",
+		"/C/Users/Miguel/Downloads/Start/main.css",
+		"/C/Users/Miguel/Downloads/Start/index.html",
+		"/C/Users/Miguel/Documents/School/2nd Year/AMC 125/matrices.py",
+		"/C/Users/Miguel/Documents/Code/Web/Alarm Snack/index.html",
+		"/C/Users/Miguel/Documents/Github/heatworks/resources/js/index.js",
+		"/C/Users/Miguel/Documents/Github/heatworks/index.html",
+		"/C/Users/Miguel/AppData/Local/Temp/Temp1_Scrollify-master.zip/Scrollify-master/jquery.scrollify.min.js",
+		"/C/Users/Miguel/Documents/School/2nd Year/SCI 10/Pasay City Redesign/index.html",
+		"/C/Users/Miguel/Documents/School/2nd Year/SCI 10/Pasay City Redesign/assets/css/style.css",
+		"/C/Users/Miguel/Documents/School/2nd Year/SCI 10/Pasay City Redesign/assets/js/app.js",
+		"/C/Users/Miguel/AppData/Local/Temp/Temp1_Scrollify-master.zip/Scrollify-master/jquery.scrollify.js",
+		"/C/Users/Miguel/AppData/Local/Temp/Temp1_Pasay City Redesign.zip/index.html",
+		"/C/Users/Miguel/Documents/Github/galacemiguel.github.io/assets/js/app.js",
+		"/C/Users/Miguel/AppData/Local/Temp/Temp1_webfontkit-20160405-141920.zip/stylesheet.css",
+		"/C/Users/Miguel/Documents/School/1st Year/2nd Sem/CS 21B/Midterm Project/Resources/PathsToImageMapEdited.jsx",
+		"/C/Users/Miguel/Documents/Github/my-sched/index.html",
+		"/C/Users/Miguel/Documents/Code/Web/Alarm Snack/assets/css/@font-face.css",
+		"/C/Users/Miguel/Documents/Github/my-sched/assets/js/app.js",
+		"/C/Users/Miguel/Documents/Github/galacemiguel.github.io/assets/css/main.css",
+		"/C/Users/Miguel/Documents/School/2nd Year/AMC 125/8-Puzzle_Solver.py",
+		"/C/Users/Miguel/Documents/School/2nd Year/AMC 125/Floyd-Warshall.py",
+		"/C/Users/Miguel/Downloads/FloydWarshall.java",
+		"/C/Users/Miguel/Downloads/AStar.py",
+		"/C/Users/Miguel/Documents/School/2nd Year/AMC 125/8-Puzzle Solver.py",
+		"/C/Users/Miguel/Desktop/print.py",
+		"/C/Users/Miguel/Documents/School/1st Year/2nd Sem/CS 21B/Midterm Project/Project1-Galace-141654/ShapeCanvas.java",
+		"/C/Users/Miguel/Desktop/test.py",
+		"/C/Users/Miguel/Downloads/index.html",
+		"/C/Users/Miguel/Documents/Code/Web/Alarm Snack/assets/css/style.css",
+		"/C/Users/Miguel/Documents/Code/Web/Random Number Algorithm.html",
+		"/C/Users/Miguel/AppData/Local/Temp/Temp1_webfontkit-20160301-043457.zip/stylesheet.css",
+		"/C/Users/Miguel/Documents/Code/Web/Blue Hacks Timer/index.html",
+		"/C/Users/Miguel/Documents/Code/Web/Blue Hacks Timer/assets/css/main.css",
+		"/C/Users/Miguel/Documents/Code/Web/Blue Hacks Timer/assets/js/app.js",
+		"/C/Users/Miguel/Downloads/Input.in",
+		"/C/Users/Miguel/Documents/Github/numpad-mash/resources/js/index.js",
+		"/C/Users/Miguel/Documents/Code/Java/CrocVault/Packaging/src/crocvault/ServerGame.java",
+		"/C/Users/Miguel/Documents/Code/Java/Flash Cards/FlashCardsGUI.java",
+		"/C/Users/Miguel/Documents/Code/Java/Flash Cards/Card.java",
+		"/C/Users/Miguel/Documents/Code/Java/Flash Cards/Deck.java",
+		"/C/Users/Miguel/Documents/Code/Java/Flash Cards/FlashCards.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Midterm Project/src/sortmatic/RadixSort.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Midterm Project/src/sortmatic/QuickSort.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Midterm Project/src/sortmatic/BubbleSort.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Midterm Project/src/sortmatic/SelectionSort.java",
+		"/C/Users/Miguel/Desktop/SortTest.java",
+		"/C/Users/Miguel/Downloads/Physics Project/src/coconutlaunch/CoconutLaunch.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/PS 21/Project/src/coconutlaunch/Projectile.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/PS 21/Project/src/coconutlaunch/CoconutLaunch.java",
+		"/C/Users/Miguel/Downloads/Physics-Project/src/coconutlaunch/CoconutLaunch.java",
+		"/C/Users/Miguel/Downloads/InputBox.java",
+		"/C/Users/Miguel/Documents/School/1st Year/2nd Sem/CS 21B/Final Project/Project2-Galace-Macasaet/LaunchGame.java",
+		"/C/Users/Miguel/Documents/Code/Java/Holiday Cheer/ShapeCanvas.java",
+		"/C/Users/Miguel/Documents/Code/Java/CrocVault/Packaging/src/crocvault/Powerup.java",
+		"/C/Users/Miguel/Documents/Code/Java/CrocVault/Packaging/src/crocvault/Catchable.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/PS 21/Coconut Launch/Projectile.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/PS 21/Coconut Launch/CoconutLaunch.java",
+		"/C/Users/Miguel/Downloads/Projectile.java",
+		"/C/Users/Miguel/Downloads/CatapultLaunch.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Midterm Project/src/sortmatic/InsertionSort.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Midterm Project/src/sortmatic/MergeSort.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 9/Vertex.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 9/AdjListVertex.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 9/AdjList.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 9/AdjMatrixVertex.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 9/AdjMatrix.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 9/Queue.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 9/Graph.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 9/IncMatrixVertex.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 9/IncMatrix.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 9/Stack.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 8/AdjMatrix.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 8/IncMatrix.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 8/IncMatrixBuilder.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 8/IncMatrixVertex.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 8/Vertex.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 5/PostfixStack.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 5/CircularQueue.java",
+		"/C/Users/Miguel/Documents/School/2nd Year/CS 110/Exercise 5/LLStack.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			".page-container",
+			"page-container",
+			"flex",
+			"updateQPI",
+			"add-b",
+			"/",
+			"grade",
+			"setGrade",
+			"grade-display",
+			"grade-heading",
+			"grade",
+			"h1",
+			"grade",
+			"nav",
+			"tab",
+			"grade-tab",
+			"transition: transform",
+			"\ttransform: ",
+			"transform: ",
+			"transform",
+			"overflow",
+			".text(\"",
+			"dropdown",
+			"input-table th",
+			"small",
+			"8pt",
+			"input-table",
+			"%",
+			"th",
+			"console.log",
+			"updateQPI",
+			"animateQPI",
+			"parseFloat($(\".grade-display\").text())",
+			"step",
+			"qpi",
+			"qpi =",
+			"qpi",
+			"images",
+			"input-table th",
+			".input-table th",
+			"th {",
+			"th",
+			"max-width",
+			"input-table",
+			"input-row",
+			"drop",
+			"\n}",
+			"row\")",
+			"\", function",
+			"\",",
+			"hidden",
+			"header",
+			"3DBEB3",
+			"header",
+			"dropdown",
+			"input-drop",
+			"unit",
+			"dropdown",
+			"vdd",
+			" 1s",
+			"2s",
+			"5s",
+			"  ",
+			"console",
+			"futura",
+			"overflow",
+			"12pt",
+			"wrap",
+			"50px",
+			"margin",
+			"150px",
+			"200px",
+			"setTimeout",
+			"$(\".grade",
+			"unit",
+			"input-row",
+			" class=\"",
+			"#",
+			"id",
+			"8",
+			"8px",
+			"-calc",
+			"qpi-calc",
+			"calc",
+			"opacity",
+			"calc",
+			"280px",
+			"condensed",
+			"<li>",
+			"url(\"",
+			"'",
+			"    ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"hover",
+			":hover",
+			"Open Sans",
+			"font: 21pt 600 \"Open Sans\";",
+			"0.",
+			"select",
+			"C",
+			"B",
+			"+",
+			"A",
+			"option",
+			"nav",
+			"@media",
+			"indent",
+			".section-heading",
+			"#section-heading",
+			"feedlist-title",
+			"feedlist-heading",
+			"section-heading",
+			"feedlist-marker",
+			"activeSection",
+			"feed-card",
+			"<?php",
+			".card-form-query",
+			"100vh",
+			"issuance-section",
+			"button",
+			"\"",
+			"nth-",
+			"date"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"startFire()",
+			"bg",
+			"#bingo",
+			"#f2f2f2",
+			"lavanderia_sturdysturdy"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "compsat-qpi-calc.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test",
+				"test"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 182.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"bar1"
+			]
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
