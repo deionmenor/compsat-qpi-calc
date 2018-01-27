@@ -19,7 +19,9 @@ $(document).ready(function() {
 
 	$(".input-card").on("change", ".input-select", updateQPI);
 
-	qpi = "hi";
+	qpi = "-";
+
+});
 
 	function updateQPI() {
 		rowTotal = $(".input-row").length;
@@ -70,9 +72,18 @@ $(document).ready(function() {
 	}
 
 	function setQPI(qpi) {
-		if (!isNaN(qpi))
+		if (!isNaN(qpi)){
 			$(".qpi-display").text(qpi);
-		else
-			$(".qpi-display").text("-");
+			// if(qpi < 2){
+			// 	$(".qpi-box").css("background-color", "red");
+			// }
+			if(qpi >= 3.70)
+				$(".qpi-detail").text("First Honors");
+			else if( qpi >= 3.35)
+				$(".qpi-detail").text("Second Honors");
+			else
+				$(".qpi-detail").text("");
+		}
+		else{
+			$(".qpi-display").text("-")};
 	}
-});

@@ -13,5 +13,9 @@
   "permissions": [
     "activeTab",
     "storage"
-  ]
+  ],
+  "icons": { "16": "android-icon-36x36.png",
+           "48": "android-icon-48x48.png",
+          "128": "ms-icon-144x144.png" }
+
 }

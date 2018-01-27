@@ -13,13 +13,31 @@ $(document).ready(function() {
 		updateQPI();
 	});
 
-	$(".add-btn").on("click", function() {
-		$(".input-table").append("<tr class='input-row'>" + $(".input-row").html() + "</tr>");
-	});
+	// $(".accordion").on("click", function() {
+	// 	$(".input-table").append("<tr class='input-row'>" + $(".input-row").html() + "</tr>");
+	// });
 
 	$(".input-card").on("change", ".input-select", updateQPI);
 
-	qpi = "-";
+	$(".accordion").on("click",function(){
+		// /* Toggle between adding and removing the "active" class,
+		// to highlight the button that controls the panel */
+		// this.classList.toggle("active");
+    //
+		// /* Toggle between hiding and showing the active panel */
+		// var panel = this.nextElementSibling;
+		// if (panel.style.display === "block") {
+		// 		panel.style.display = "none";
+		// } else {
+		// 		panel.style.display = "block";
+		// }
+		$(".input-table").append("<tr class='input-row'>" + $(".input-row").html() + "</tr>");
+	};
+
+	qpi = "";
+
+
+
 
 	function updateQPI() {
 		rowTotal = $(".input-row").length;
@@ -28,7 +46,7 @@ $(document).ready(function() {
 
 		for(i = 0; i < rowTotal; i++) {
 			gradeSelectVal = $(".input-row:eq(" + i + ") .grade-select").val();
-			
+
 			if (gradeSelectVal != "-") {
 				grade = parseFloat(gradeSelectVal);
 				units = parseFloat($(".input-row:eq(" + i + ") .unit-select").val());
@@ -44,6 +62,10 @@ $(document).ready(function() {
 			qpi = (gradeTotal/unitTotal).toFixed(2);
 			animateQPI(Math.abs(qpi - parseFloat($(".qpi-display").text()))/20);
 		}
+
+
+
+
 	}
 
 	var animateQPI = function(step) {
@@ -63,15 +85,30 @@ $(document).ready(function() {
 					addend = -step;
 
 				setQPI((gradeDisplay + addend).toFixed(2));
-			
+
 				animateQPI(step);
 			}
 		}, 20);
 	}
 
+
+
 	function setQPI(qpi) {
+		// var xx = parseFloat(document.getElementById("changeColour").innerHTML)
+		// // if (xx < 2 ) {
+		//     document.getElementById("changeColour").style.color = "red";
+		// // }
+
+
+
 		if (!isNaN(qpi))
 			$(".qpi-display").text(qpi);
+			if(qpi < 1){
+				// $(".changeColor").css('color', 'red');
+				$("#test").text("????");
+			}
+
+
 		else
 			$(".qpi-display").text("-");
 	}
